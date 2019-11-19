@@ -141,21 +141,21 @@ print("The area of your triangle is", 0.5*x*y)
 
 x=11
 y=3
-print(x+y)
-print(x-y)
-print(x*y)
-print(x/y)
-print(x//y)
-print(x%y)
-print(abs(x*-1))
-print(int(x))
-print(float(x))
-print(divmod(x,y))
-print(pow(x,y))
-print(x**y)
-print(x>y)
-print(x==y)
-print(x!=y)
+print(x+y)  #14
+print(x-y)  #8
+print(x*y)  #33
+print(x/y)  #3.6666666666666665
+print(x//y) #3
+print(x%y)  #2
+print(abs(x*-1))    #11
+print(int(x))   #11
+print(float(x)) #11.0
+print(divmod(x,y))  #(3, 2)
+print(pow(x,y)) #1331
+print(x**y) #1331
+print(x>y)  #True
+print(x==y) #False
+print(x!=y) #True
 
 
 
