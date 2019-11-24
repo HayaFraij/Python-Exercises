@@ -129,7 +129,7 @@ print("max = ", max)
 num = int(input("insert your num"))
 for i in range(11):
     print(num," * ", i, " = ", num*i)
-
+"""
 
 #Q3
 print("hhh\b ")
@@ -141,7 +141,7 @@ for i in range(5, -1, -1):
     for j in range(i):
         print("*",end="")   
     print("*")  
-
+"""
 
 #Q4:
 
